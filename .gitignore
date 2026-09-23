@@ -1,0 +1,7 @@
+build/
+.vscode/
+.devcontainer/
+.clangd
+sdkconfig.old
+*.log
+.DS_Store
